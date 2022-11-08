@@ -1,2 +1,3 @@
 # odin-recipies
-EXPERIMENT
+skills i have currently
+very very basics of html and github
